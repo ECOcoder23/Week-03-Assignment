@@ -65,7 +65,3 @@ def draw_hollow_square(height, thickness):
     draw_square_ends(height, thickness)
 
 draw_hollow_square(8, 2)
-
-''' Week 02 Assignment Reflection:
-
-'''
